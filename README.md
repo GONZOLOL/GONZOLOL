@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a NextJs Proyect<br>🌱 I’m currently learning React Native<br>⚡ Fun fact
+🔭 I’m currently working on a NextJs Proyect<br>🌱 I’m currently learning React Native<br>
 
 
 ## 🌐 Socials:
@@ -14,14 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GONZOLOL&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=GONZOLOL&icon=1&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
